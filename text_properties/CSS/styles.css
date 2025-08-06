@@ -1,0 +1,19 @@
+h1 {
+    color: aqua;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
